@@ -1,2 +1,2 @@
 # SNSPractice
-A simple project for practicing with AWS SNS
+A simple project for practicing with AWS SNS using .NET
